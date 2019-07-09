@@ -1,2 +1,2 @@
 # basics
-Repository contains examples of basic searches with specified time complexities.
+Repository contains examples of algorithm theory and basic searches with specified time complexities.
